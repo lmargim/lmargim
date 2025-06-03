@@ -3,9 +3,7 @@ Hola, soy Luis Martín, un desarrollador fullstack apasionado por el aprendizaje
 
 Actualmente trabajo con tecnologías como Angular, React, Node.js, Spring Boot y Kotlin (Android). Me entusiasma especialmente el desarrollo de aplicaciones completas, desde el diseño frontend hasta la lógica backend y la integración con bases de datos y APIs.
 
-Soy el autor de Ágora, un proyecto de blog con sistema de publicaciones y comentarios, donde implemento buenas prácticas como encriptación de contraseñas con bcrypt y una arquitectura limpia con separación por capas.
-
-Me interesa el análisis de datos, la inteligencia artificial y la automatización con herramientas como Google Apps Script.
+Mi proyecto más destacable es Ágora, un proyecto de blog con sistema de publicaciones y comentarios, donde implemento buenas prácticas como encriptación de contraseñas con bcrypt y una arquitectura limpia con separación por capas, actualmente el repositorio se encuentra en oculto.
 
 En cada proyecto busco profesionalidad, claridad y una experiencia de usuario pulida. Me esfuerzo por escribir código limpio, reutilizable y bien estructurado.
 
