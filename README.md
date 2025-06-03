@@ -5,7 +5,7 @@ Actualmente trabajo con tecnologías como Angular, React, Node.js, Spring Boot y
 
 Soy el autor de Ágora, un proyecto de blog con sistema de publicaciones y comentarios, donde implemento buenas prácticas como encriptación de contraseñas con bcrypt y una arquitectura limpia con separación por capas.
 
-También me dedico a la enseñanza, compartiendo mis conocimientos con alumnos y ayudándolos a crecer como desarrolladores. Me interesa el análisis de datos, la inteligencia artificial y la automatización con herramientas como Google Apps Script.
+Me interesa el análisis de datos, la inteligencia artificial y la automatización con herramientas como Google Apps Script.
 
 En cada proyecto busco profesionalidad, claridad y una experiencia de usuario pulida. Me esfuerzo por escribir código limpio, reutilizable y bien estructurado.
 
