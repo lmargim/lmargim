@@ -11,15 +11,25 @@ I'm Luis, a full stack developer passionate about building real-world tech solut
 
 I currently work with technologies like **Angular, React, Node.js, Express, and Java Spring Boot**, and I especially enjoy crafting full-stack applications — from beautiful frontend interfaces to robust backend systems and database integrations.
 
-🛠️ My most notable project is **Ágora**, a blog system with posts and comments, where I implemented:
-- Password encryption with bcrypt 🔐  
-- Clean layered architecture 🧱  
-- UX-focused design 🎯  
-
-I aim to write **clean, reusable, and well-structured code**, always looking for efficient solutions — even when working with unfamiliar tools. My commitment lies in continuous learning and delivering high-quality results.
-
 ---
 
+### 🚀 Featured Project: Ágora 🏛️
+
+**Ágora** is a full-stack blog platform built entirely from scratch. It allows users to create, read, update, and delete publications, as well as post and manage comments.
+
+Key features include:
+
+- 🔐 **Secure authentication** with encrypted passwords using **bcrypt**
+- 🧱 **Clean architecture**: separation of concerns between controllers, services, repositories, and models
+- 🗂️ **Modular structure** for scalability and maintainability
+- 🧠 **Form validation** and user-friendly error handling
+- 🔍 **Content filtering**, topic tagging, and search functionality
+- 🌐 Developed using **Angular** (frontend), **Spring Boot** (backend), and **MySQL** (database)
+
+> 🛑 The repository is currently private.  
+> 📩 **Feel free to contact me** if you'd like to know more or see a demo!
+
+---
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-martín-17a6951b6)
