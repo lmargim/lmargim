@@ -1,4 +1,6 @@
-# 💫 Sobre Mí:
+<h1 align="center">Hi 👋, I'm Luis!</h1>
+<h3 align="center">A passionate fullstack developer from Spain</h3>
+# 💫 About me:
 Hola, soy Luis Martín, un desarrollador fullstack apasionado por el aprendizaje constante y la creación de soluciones tecnológicas que realmente aporten valor. Vengo del mundo de la electricidad, pero hace un tiempo di el salto al desarrollo de software, donde encontré mi verdadera vocación.
 
 Actualmente trabajo con tecnologías como Angular, React, Node.js, Express y Java Spring Boot. Me entusiasma especialmente el desarrollo de aplicaciones completas, desde el diseño frontend hasta la lógica backend y la integración con bases de datos y APIs.
