@@ -24,7 +24,7 @@ Key features include:
 - 🗂️ **Modular structure** for scalability and maintainability
 - 🧠 **Form validation** and user-friendly error handling
 - 🔍 **Content filtering**, topic tagging, and search functionality
-- 🌐 Developed using **Angular && Tailwind** (frontend), **Node.js & Express** (backend), and **MySQL** (database)
+- 🌐 Developed using **Angular & Tailwind** (frontend), **Node.js & Express** (backend), and **MySQL** (database)
 
 > 🛑 The repository is currently private.  
 > 📩 **Feel free to contact me** if you'd like to know more or see a demo!
