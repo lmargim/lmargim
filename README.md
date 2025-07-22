@@ -3,24 +3,25 @@
 
 ---
 
-<img src="https://imgur.com/a/hrfwglK" width="250" align="right" />
+<img src="https://i.imgur.com/0zqCIbl.png" width="250" align="right" />
 
 ### 💡 About Me
 
-Hola, soy Luis, un desarrollador fullstack apasionado por crear soluciones tecnológicas que realmente aporten valor. Comencé mi carrera en el mundo de la electricidad, pero encontré mi verdadera vocación en el desarrollo de software.
+I'm Luis, a full stack developer passionate about building real-world tech solutions that make a difference. My journey started in the electrical field, but I found my true passion in software development.
 
-Trabajo con tecnologías como **Angular, React, Node.js, Express y Java Spring Boot**, y disfruto especialmente construyendo aplicaciones completas que combinen un frontend pulido con un backend sólido y eficiente.
+I currently work with technologies like **Angular, React, Node.js, Express, and Java Spring Boot**, and I especially enjoy crafting full-stack applications — from beautiful frontend interfaces to robust backend systems and database integrations.
 
-🛠️ Mi proyecto más destacado es **Ágora**, un blog con sistema de publicaciones y comentarios. En él aplico buenas prácticas como:
-- Encriptación de contraseñas con bcrypt 🔐
-- Arquitectura limpia con separación por capas 🧱
-- Diseño centrado en la experiencia de usuario 🎯  
+🛠️ My most notable project is **Ágora**, a blog system with posts and comments, where I implemented:
+- Password encryption with bcrypt 🔐  
+- Clean layered architecture 🧱  
+- UX-focused design 🎯  
+> *(The repository is currently private)*
 
-Me esfuerzo por escribir código **limpio, reutilizable y bien estructurado**, y nunca dejo de aprender ni de buscar soluciones eficientes.
+I aim to write **clean, reusable, and well-structured code**, always looking for efficient solutions — even when working with unfamiliar tools. My commitment lies in continuous learning and delivering high-quality results.
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-martín-17a6951b6)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luismartingimeno)
@@ -30,7 +31,6 @@ Me esfuerzo por escribir código **limpio, reutilizable y bien estructurado**, y
 
 ### ⚙️ Tech Stack
 
-<!-- Puedes añadir o quitar según preferencias -->
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -72,5 +72,3 @@ Me esfuerzo por escribir código **limpio, reutilizable y bien estructurado**, y
 ---
 
 [![](https://visitcount.itsvg.in/api?id=lmargim&icon=10&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly crafted with ❤️ and GPRM (https://gprm.itsvg.in) -->
