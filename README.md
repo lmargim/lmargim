@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Luis Martín  
-## 💻 Full Stack Developer | Angular & Spring Boot Enthusiast | From Spain 🇪🇸
+## 💻 Full Stack Developer | Angular & Node.js Enthusiast | From Spain 🇪🇸
 
 ---
 
