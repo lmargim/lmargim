@@ -15,7 +15,6 @@ I currently work with technologies like **Angular, React, Node.js, Express, and 
 - Password encryption with bcrypt 🔐  
 - Clean layered architecture 🧱  
 - UX-focused design 🎯  
-> *(The repository is currently private)*
 
 I aim to write **clean, reusable, and well-structured code**, always looking for efficient solutions — even when working with unfamiliar tools. My commitment lies in continuous learning and delivering high-quality results.
 
